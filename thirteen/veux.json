@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_veux-13.0-20230702-1923.zip",
-    "datetime": 1688325810,
-    "size": 1819632880,
-    "url": "https://sourceforge.net/projects/nippongsi/files/Generic/PixelOS_veux-13.0-20230702-1923.zip",
+    "filename": "PixelOS_veux-13.0-20230703-0555.zip",
+    "datetime": 1688363611,
+    "size": 1821874575,
+    "url": "https://sourceforge.net/projects/nippongsi/files/Builds/PixelOS_veux-13.0-20230703-0555.zip",
     "github_releases_url": "PLACEHOLDER",
     "fastboot_package_url": "PLACEHOLDER",
-    "filehash": "0dee82e12d0a0c6354eb45ca663b9ea1",
-    "id": "169c18aa042d81efdeae91f3cc7552046eb7fc1a3c8b3721383993eaad5089cf",
+    "filehash": "162cc3f7c92992bee2a17a265af0fc18",
+    "id": "5677304bf8229884e96ba4aa46679bf312a03596ff2a64d38e26fa09fd0414ca",
     "maintainers": [
         {
             "main_maintainer": true,
@@ -16,7 +16,7 @@
             "name": "Nippon"
         }
     ],
-    "donate_url": "",
+    "donate_url": "PLACEHOLDER",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
     "forum_url": "PLACEHOLDER"
