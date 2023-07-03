@@ -43,6 +43,15 @@ with open(hash_file_path, 'r') as hash_file:
 
 data = {
     "error": false,
+    "version": version,
+    "filename": filename,
+    "datetime": build_date,
+    "size": size,
+    "url": url,
+    "github_releases_url": "PLACEHOLDER",
+    "fastboot_package_url": "PLACEHOLDER",
+    "filehash": file_hash
+    "id": id,
     "maintainers": [
         {
             "main_maintainer": true,
@@ -50,13 +59,10 @@ data = {
             "name": maintainer_name
         }
     ],
-    "datetime": build_date,
-    "filename": filename,
-    "id": id,
-    "size": size,
-    "url": url,
-    "version": version,
-    "filehash": file_hash
+    "donate_url": "PLACEHOLDER",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": "PLACEHOLDER"
 }
 
 json_data = json.dumps(data, indent=4)
