@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_veux-13.0-20230921-0336.zip",
-    "datetime": 1695267282,
-    "size": 1799027870,
-    "url": "https://sourceforge.net/projects/nippongsi/files/Builds/PixelOS_veux-13.0-20230921-0336.zip",
+    "filename": "PixelOS_veux-13.0-20230929-1509.zip",
+    "datetime": 1696000040,
+    "size": 1700019169,
+    "url": "https://server.nippon.workers.dev/0:/PixelOS_veux/PixelOS_veux-13.0-20230929-1509.zip",
     "github_releases_url": "PLACEHOLDER",
     "fastboot_package_url": "PLACEHOLDER",
-    "filehash": "c42083450043b868a4ffedd11b5bca4f",
-    "id": "720e8fa0ecbe71316901764ecf275991ca5243b278ad334542bb0c09a4fe7ef6",
+    "filehash": "cdf563f8cdf1646cc3e637f09ea59cef",
+    "id": "79566d749076e8fa3ebb9ec689571e55b55a11976ce238ce87cab530ac1b09fb",
     "maintainers": [
         {
             "main_maintainer": true,
